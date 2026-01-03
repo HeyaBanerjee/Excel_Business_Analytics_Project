@@ -42,6 +42,7 @@ This project presents an interactive sales dashboard for Vrinda Stores (2022) cr
 - Designing interactive reports for business users
 
 # Preview
+![Dashboard Preview](Dashboard.png)
 
 # Conclusion
 This project demonstrates how Excel can be effectively used for data analysis and business reporting, making it a valuable tool for analysts, especially in entry-level and business-focused roles.
