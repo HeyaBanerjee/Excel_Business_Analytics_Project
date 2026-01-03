@@ -4,28 +4,28 @@ This project presents an interactive sales dashboard for Vrinda Stores (2022) cr
 
 # Dashboard Highlights
 - Order vs Sales Analysis
-  -- Monthly comparison of total sales amount and order volume.
+    - Monthly comparison of total sales amount and order volume.
 - Customer Demographics
-    -- Sales split between Men and Women
-    -- Age-group vs Gender contribution
+  - Sales split between Men and Women
+  - Age-group vs Gender contribution
 - Order Status Breakdown
-  -- Delivered
-  -- Cancelled
-  -- Returned
-  -- Refunded
+  - Delivered
+  - Cancelled
+  - Returned
+  - Refunded
 - Geographical Performance
-    -- Top 5 states by total sales value
+  - Top 5 states by total sales value
 - Channel Performance
-    -- Amazon
-    -- Myntra
-    -- Flipkart
-    -- Ajio
-    -- Meesho
-    -- Others
+  - Amazon
+  - Myntra
+  - Flipkart
+  - Ajio
+  - Meesho
+  - Others
 - Interactive Filters
-    -- Month
-    -- Sales Channel
-    -- Product Category
+    - Month
+    - Sales Channel
+    - Product Category
 
 # Tools Used
 - Microsoft Excel
